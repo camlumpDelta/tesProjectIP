@@ -17,4 +17,4 @@ jobs:
         url: ${{ secrets.JENKINS_SERVER }}
         user: "camlump"
         token: ${{ secrets.JENKINS_PAT }}
-        job: "demo-pipeline"
+        job: "testPipeline"
