@@ -2,5 +2,7 @@ package org.example;
 
 public class Student {
 
-    private String firstname;
+    private String firstName;
+
+    private String lastName;
 }
